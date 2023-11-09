@@ -1,0 +1,22 @@
+{
+  "name": "oussmodule",
+  "version": "1.0.0",
+  "description": "creation and publish of myfirst module module on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussamacherbib/my-npm-module.git"
+  },
+  "keywords": [
+    "tay"
+  ],
+  "author": "ouss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oussamacherbib/my-npm-module/issues"
+  },
+  "homepage": "https://github.com/oussamacherbib/my-npm-module#readme"
+}
